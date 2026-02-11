@@ -1,6 +1,7 @@
 # On-chain Analytics Portfolio (Solana)
 
-This repository documents my on-chain research dashboards built using Dune Analytics, SQL, and Python. Each project focuses on wallet behavior, liquidity dynamics, leverage cycles, and execution quality across the Solana ecosystem.
+This repository showcases structured on-chain research dashboards built using Dune Analytics, SQL, and Python. The work focuses on perpetual futures positioning, liquidity dynamics, wallet behavior, execution quality, and market regime classification across the Solana ecosystem. Each dashboard is designed to translate raw blockchain data into actionable market structure insights.
+
 
 Author: William Manuel Osorio  
 Dune Profile: https://dune.com/wossorio
