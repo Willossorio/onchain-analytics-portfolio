@@ -81,5 +81,23 @@ Key Concepts:
 - Stress Regime Classification
 - Structural Shift Detection
 
+---
+
+### 4. JUP Buybacks vs Organic Market Demand — Solana
+
+Live Dashboard:
+https://dune.com/wossorio/jup-buybacks-vs-organic-market-demand
+
+Focus:
+Quantifies the impact of Jupiter protocol buybacks relative to organic market demand by comparing programmatic token repurchases against natural trading flows to assess reflexivity, price support strength, and sustainability of upward moves.
+
+Key Concepts:
+
+- Buyback Volume vs Total Volume Share
+- Buyback Intensity Ratio
+- Net Organic Flow Estimation
+- Price Response vs Buyback Activity
+- Reflexivity Diagnostics
+
 
 
