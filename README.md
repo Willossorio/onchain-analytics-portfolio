@@ -242,3 +242,15 @@ Key Concepts:
 - Infrastructure Centralization Diagnostics
 
 
+---
+
+## Contact
+
+I am actively seeking mid-tier On-Chain / Blockchain Analyst roles focused on derivatives structure, liquidity analytics, execution quality, and protocol incentive research.
+
+For collaboration, research discussions, or opportunities:
+
+Email: wossor02@gmail.com  
+LinkedIn: https://www.linkedin.com/in/williamossorio
+
+
