@@ -5,6 +5,23 @@ This repository showcases structured on-chain research dashboards built using Du
 
 Author: William Manuel Osorio  
 Dune Profile: https://dune.com/wossorio
+---
+
+## Research Framework
+
+This portfolio is structured around three core analytical pillars:
+
+1. **Market Structure & Leverage Dynamics**  
+   Derivatives positioning, funding rate pressure, open interest expansion, and crowding diagnostics.
+
+2. **Liquidity & Flow Regimes**  
+   Rolling liquidity stress indicators, informed flow proxies, and regime classification models.
+
+3. **Execution & Microstructure Quality**  
+   Slippage diagnostics, routing efficiency, liquidity depth, and DEX benchmarking.
+
+Each dashboard is designed to translate raw on-chain and derivatives data into interpretable structural signals.
+
 
 ---
 
