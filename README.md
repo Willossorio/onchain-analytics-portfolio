@@ -58,6 +58,21 @@ Together, these projects form an integrated analytical framework that connects d
 
 ---
 
+## Flagship Dashboards
+
+The following dashboards represent the core structural research pillars of this portfolio:
+
+### 1. Perpetual Futures Market Structure & Leverage Cycles — Solana
+Analyzes derivatives positioning, funding pressure, and open interest expansion to classify leverage regimes and crowding environments across SOL, ETH, and BTC perpetual markets.
+
+### 2. Liquidity Stress & Informed Flow Regimes — Solana (30D Rolling)
+Constructs composite liquidity and informed flow indicators to detect structural stress environments and directional conviction shifts.
+
+### 3. Solana Validator & MEV Landscape — Jito Focus
+Examines validator concentration, Jito adoption, MEV reward distribution, and fee market capture to assess execution-layer structural risks.
+
+---
+
 ## Research Framework
 
 This portfolio is structured around three core analytical pillars:
