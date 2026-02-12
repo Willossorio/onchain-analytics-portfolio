@@ -91,6 +91,26 @@ Each dashboard is designed to translate raw on-chain and derivatives data into i
 
 ---
 
+## Methodology & Analytical Approach
+
+Each dashboard follows a consistent analytical workflow:
+
+1. Hypothesis Formation  
+   Identify structural inefficiencies, regime shifts, or incentive distortions within the Solana ecosystem.
+
+2. Metric Construction  
+   Build custom rolling indicators, Z-score normalizations, volume-weighted ratios, and cross-market comparisons using SQL.
+
+3. Regime Classification  
+   Translate raw metrics into interpretable states (Expansion, Deleveraging, Stress, Reflexive Demand, etc.).
+
+4. Structural Interpretation  
+   Connect derivatives positioning, spot liquidity, execution quality, and validator incentives into a unified structural narrative.
+
+The goal is not descriptive analytics — but regime detection and structural signal extraction.
+
+---
+
 ## Dashboards
 
 ### 1. Perpetual Futures Market Structure & Leverage Cycles — Solana
