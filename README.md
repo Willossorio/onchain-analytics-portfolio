@@ -99,5 +99,21 @@ Key Concepts:
 - Price Response vs Buyback Activity
 - Reflexivity Diagnostics
 
+---
 
+### 5. Solana Aggregator Routing & Execution — Jupiter
+
+Live Dashboard:
+https://dune.com/wossorio/solana-aggregator-routing-execution-jupiter
+
+Focus:
+Analyzes routing efficiency and execution quality across Jupiter aggregator paths versus direct DEX execution to evaluate slippage optimization, liquidity sourcing behavior, and cross-venue price impact.
+
+Key Concepts:
+
+- Aggregator vs Direct Execution Comparison
+- Route Efficiency by Trade Size
+- Slippage Differential Analysis
+- Liquidity Source Composition
+- Execution Cost Diagnostics
 
