@@ -24,6 +24,38 @@ The dashboards are designed to:
 
 Together, these projects form an integrated analytical framework that connects derivatives markets, spot liquidity, execution routing, and infrastructure-level incentives into a cohesive structural view of the ecosystem.
 
+
+---
+
+## Technical Stack & Analytical Capabilities
+
+**Data & Querying**
+- Advanced SQL (Dune Analytics)
+- On-chain event decoding and log interpretation
+- Time-series aggregation and rolling metric construction
+- Cross-market comparative analysis (SOL, ETH, BTC)
+
+**Market Structure Analytics**
+- Open Interest & Funding Rate Regime Modeling
+- Leverage Expansion vs Deleveraging Classification
+- Liquidity Imbalance & Volume Concentration Metrics
+- Buyback Intensity & Reflexivity Diagnostics
+- MEV & Validator Reward Distribution Analysis
+
+**Execution & Microstructure**
+- Slippage Distribution Modeling
+- Price Impact vs Depth Analysis
+- Aggregator vs Direct Routing Benchmarking
+- Liquidity Source Decomposition
+- Structural Regime Shift Detection
+
+**Tooling**
+- Dune Analytics
+- SQL
+- Python (Pandas, data manipulation)
+- Dashboard narrative design for research presentation
+
+
 ---
 
 ## Research Framework
