@@ -75,10 +75,11 @@ Constructs composite liquidity and informed flow indicators using rolling 30-day
 
 Key Concepts:
 
-• Liquidity Imbalance Metrics  
-• Rolling Volume Concentration  
-• Informed Flow Proxy Signals  
-• Stress Regime Classification  
-• Structural Shift Detection
+- Liquidity Imbalance Metrics
+- Rolling Volume Concentration
+- Informed Flow Proxy Signals
+- Stress Regime Classification
+- Structural Shift Detection
+
 
 
