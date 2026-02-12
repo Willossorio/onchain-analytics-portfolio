@@ -27,3 +27,20 @@ Key Concepts:
 - Crowding Classification (Long / Short / Neutral)
 
 ---
+---
+
+2. Solana DEX Execution Benchmark
+
+Live Dashboard:
+https://dune.com/wossorio/solana-dex-execution-benchmark
+
+Focus:
+Evaluates execution quality across major Solana decentralized exchanges by analyzing slippage patterns, trade size impact, liquidity depth, and routing efficiency.
+
+Key Concepts:
+
+- Slippage Distribution by Trade Size
+- Price Impact vs Liquidity Depth
+- Aggregator vs Direct Routing Comparison
+- Execution Quality Benchmarking Across DEXs
+- Market Microstructure Diagnostics
