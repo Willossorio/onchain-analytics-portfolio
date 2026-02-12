@@ -5,6 +5,25 @@ This repository showcases structured on-chain research dashboards built using Du
 
 Author: William Manuel Ossorio  
 Dune Profile: https://dune.com/wossorio
+
+
+---
+
+## Portfolio Overview
+
+This portfolio presents a structured, multi-layered analysis of Solana’s on-chain market structure, spanning derivatives positioning, liquidity regimes, execution quality, protocol reflexivity, and validator-level infrastructure dynamics.
+
+The dashboards are designed to:
+
+- Translate raw blockchain data into interpretable structural signals
+- Diagnose leverage expansion vs deleveraging environments
+- Quantify liquidity stress and informed flow regimes
+- Benchmark execution quality across DEXs and aggregators
+- Measure reflexivity through protocol buyback activity
+- Assess validator concentration and MEV distribution risks
+
+Together, these projects form an integrated analytical framework that connects derivatives markets, spot liquidity, execution routing, and infrastructure-level incentives into a cohesive structural view of the ecosystem.
+
 ---
 
 ## Research Framework
