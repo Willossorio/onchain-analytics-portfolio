@@ -56,6 +56,27 @@ Together, these projects form an integrated analytical framework that connects d
 - Dashboard narrative design for research presentation
 
 
+
+---
+
+## Solana Market Structure Report — February 2026
+
+This report synthesizes derivatives positioning, liquidity regimes, execution quality, protocol reflexivity, and validator-level infrastructure dynamics into a unified structural assessment of the Solana ecosystem.
+
+### Structural Highlights
+
+• Derivatives leverage expansion vs deleveraging cycles classified using funding-weighted open interest dynamics  
+• Liquidity stress regimes detected using rolling 30-day volume concentration and imbalance metrics  
+• Jupiter buyback reflexivity analyzed relative to organic trading flows  
+• Aggregator routing efficiency benchmarked against direct DEX execution  
+• Validator & MEV concentration assessed for infrastructure-level centralization risk  
+
+### Integrated Thesis
+
+The Solana ecosystem currently exhibits interconnected dynamics between perpetual leverage positioning, liquidity concentration, buyback-driven reflexivity, and execution-layer incentive alignment.
+
+Rather than viewing these dashboards in isolation, this portfolio connects derivatives markets, spot execution, protocol buybacks, and validator incentives into a cohesive structural regime model.
+
 ---
 
 ## Flagship Dashboards
