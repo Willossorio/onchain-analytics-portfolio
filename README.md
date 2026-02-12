@@ -45,3 +45,23 @@ Key Concepts:
 - Aggregator vs Direct Routing Comparison
 - Execution Quality Benchmarking Across DEXs
 - Market Microstructure Diagnostics
+
+---
+
+### 3. Liquidity Stress & Informed Flow Regimes — Solana (30D Rolling)
+
+Live Dashboard:
+https://dune.com/wossorio/liquidity-stress-and-informed-flow-regimes-solana-30d-rolling
+
+Focus:
+Constructs composite liquidity and informed flow indicators using rolling 30-day metrics to classify stress environments and directional conviction across the Solana ecosystem.
+
+Key Concepts:
+
+• Liquidity Imbalance Metrics  
+• Rolling Volume Concentration  
+• Informed Flow Proxy Signals  
+• Stress Regime Classification  
+• Structural Shift Detection
+
+
