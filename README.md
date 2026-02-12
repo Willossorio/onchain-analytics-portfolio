@@ -29,7 +29,8 @@ Key Concepts:
 ---
 ---
 
-2. Solana DEX Execution Benchmark
+### 2. Solana DEX Execution Benchmark
+
 
 Live Dashboard:
 https://dune.com/wossorio/solana-dex-execution-benchmark
