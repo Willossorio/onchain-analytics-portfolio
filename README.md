@@ -117,3 +117,21 @@ Key Concepts:
 - Liquidity Source Composition
 - Execution Cost Diagnostics
 
+---
+
+### 6. Solana Validator & MEV Landscape — Jito Focus
+
+Live Dashboard:  
+https://dune.com/wossorio/solana-validator-and-mev-landscape-jito-focus
+
+Focus: Analyzes validator distribution, Jito adoption, MEV block production share, fee market concentration, and stake centralization to assess structural risk and execution layer dynamics across the Solana ecosystem.
+
+Key Concepts:
+
+- Validator Stake Distribution
+- Jito vs Non-Jito Block Share
+- MEV Reward Concentration
+- Fee Market Capture Analysis
+- Infrastructure Centralization Diagnostics
+
+
